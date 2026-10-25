@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TabLock</string>
+    <string name="device_admin_description">Enables TabLock to automatically turn off and lock the screen when your countdown timer or schedule completes, requiring your default device password to unlock.</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Timer countdown ring accent -->
+    <path
+        android:pathData="M54,23 A31,31 0 1,1 27.2,70"
+        android:strokeWidth="3.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M27.2,70 A31,31 0 0,1 54,23"
+        android:strokeWidth="1.5"
+        android:strokeColor="#334155"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Padlock shackle -->
+    <path
+        android:pathData="M43,47 V36 C43,30 48,25 54,25 C60,25 65,30 65,36 V47"
+        android:strokeWidth="5"
+        android:strokeColor="#F8FAFC"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Padlock main body -->
+    <path
+        android:pathData="M37,47 H71 C73.8,47 76,49.2 76,52 V73 C76,75.8 73.8,78 71,78 H37 C34.2,78 32,75.8 32,73 V52 C32,49.2 34.2,47 37,47 Z"
+        android:fillColor="#38BDF8" />
+
+    <!-- Keyhole / timer needle -->
+    <path
+        android:pathData="M54,58 A3.5,3.5 0 1,0 54,55 A3.5,3.5 0 0,0 54,58 Z M52.5,58 L52,67 H56 L55.5,58 Z"
+        android:fillColor="#0F172A" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "TabLock",
+  "description": "Timed auto-lock for Android Honor Tab. Set countdown timers or schedules to lock your tablet screen and require the default password to unlock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
